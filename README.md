@@ -82,4 +82,33 @@ GROQ_API_KEY=your_groq_api_key
 
 Replace the placeholders with your API keys.
 
-### 6. Run
+### 6. Run the application
+
+```bash
+streamlit run app.py
+```
+
+The application will open in your browser.
+
+## 🔑 API Requirements
+
+You need API keys from:
+
+- [Octen API](https://octen.ai/) — News search.
+- [Groq](https://console.groq.com/) — AI-powered analysis.
+
+## 🚀 Future Improvements
+
+- Persistent database for search history.
+- Improved article ranking and relevance detection.
+- More advanced research capabilities.
+- Support for additional news sources.
+- Deployment as a publicly accessible web application.
+
+## 👨‍💻 Author
+
+# mr_rc_018
+
+---
+
+*AI News Agent — Search. Understand. Explore.*
